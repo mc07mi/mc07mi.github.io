@@ -1,0 +1,38 @@
+.intro-message {
+	 	text-align: center;
+	 	width: 700px;
+	 	padding-left: 22%;
+	 	padding-top: 80px;
+	 	padding-bottom: 10px;
+}
+
+body {
+	background: url(background.jpg) no-repeat center center;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h1 {
+    color: #F2CF05;
+    font-family: verdana;
+    font-size: 50px;
+}
+
+h3 {
+    color: #ffffff;
+    font-family: verdana;
+    font-size: 16px;
+}
+a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	background-color: #ff8400;
+	text-decoration: none;
+}
