@@ -5,6 +5,10 @@
 	 	padding-top: 80px;
 	 	padding-bottom: 10px;
 }
+.signup-form {
+	color: #FF9D00;
+	text-align: center;
+}
 
 body {
 	background: url(Background.jpg) no-repeat center center;
@@ -33,6 +37,6 @@ a:visited {
 }
 a:hover {
 	color: #000000;
-	background-color: #ff8400;
+	background-color: #FF9D00;
 	text-decoration: none;
 }
