@@ -11,7 +11,7 @@
 }
 
 body {
-	background: url(Background.jpg) no-repeat center center;
+	background: url('Background.jpg') no-repeat center center;
     color: #ffffff;
     background-color: #000000;
 }
